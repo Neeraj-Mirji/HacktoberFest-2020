@@ -117,5 +117,8 @@ Name: [Muhammad Iqbal R](https://github.com/miqbalrr) <br/>
 Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
+Name: [Neeraj Mirji](https://github.com/Neeraj-Mirji) <br/>
+Place: India <br/>
+About: Developer <br/>
 
 
